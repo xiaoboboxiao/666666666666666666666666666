@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <fonts>
+    <font name="DengXian" className="FskyFont_Deng" url="./files/fonts/font-0-0-202045204017931.swf"/>
+    <font name="DengXian" className="FskyFont_Dengb" url="./files/fonts/font-0-1-202045204017932.swf"/>
+    <font name="思源黑体" className="FskyFont_syht" url="./files/fonts/font-1-0-202045204017932.swf"/>
+    <font name="思源黑体" className="FskyFont_syht_Bold" url="./files/fonts/font-1-1-202045204017933.swf"/>
+    <font name="思源黑体" className="FskyFont_syht_Italic" url="./files/fonts/font-1-2-202045204017933.swf"/>
+    <font name="思源黑体" className="FskyFont_syht_Bold_Italic" url="./files/fonts/font-1-3-202045204017933.swf"/>
+    <font name="Droid Sans Fallback" className="FskyFont_droidsansfallback" url="./files/fonts/font-2-0-202045204017934.swf"/>
+  </fonts>
+</data>
